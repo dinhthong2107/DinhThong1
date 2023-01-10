@@ -13,4 +13,20 @@
 - [Bài 4](https://www.jdoodle.com/a/5I5q)
 
 [3.Câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
-- [Bài 1]
+- [Bài 1](https://www.jdoodle.com/a/5Ig7)
+- [Bài 2](https://www.jdoodle.com/a/5Igo)
+- [Bài 3](https://www.jdoodle.com/a/5Igr)
+- [Bài 4](https://www.jdoodle.com/a/5Igu)
+
+[4.Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
+- [Bài 1](https://www.jdoodle.com/a/5IgE)
+- [Bài 2](https://www.jdoodle.com/a/5IgH)
+
+[5.Mảng](https://hoctructuyencntt.github.io/NNLT/Bai06.html)
+- [Bài 1](https://www.jdoodle.com/a/5IgN)
+[6. bài tập lập trình](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+- [bài 1](https://www.jdoodle.com/a/5IgR)
+- [bài 2](https://www.jdoodle.com/a/5IgS)
+- [bài 3](https://www.jdoodle.com/a/5IgU)
+- [bài 4](https://www.jdoodle.com/a/5Ih3)
+- [bài 5](https://www.jdoodle.com/a/5Ih4)
